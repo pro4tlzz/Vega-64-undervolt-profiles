@@ -9,8 +9,8 @@
             <STATE ID="3" Enabled="True" Value="1138"/>
             <STATE ID="4" Enabled="True" Value="1200"/>
             <STATE ID="5" Enabled="True" Value="1401"/>
-            <STATE ID="6" Enabled="True" Value="1627"/>
-            <STATE ID="7" Enabled="True" Value="1630"/>
+            <STATE ID="6" Enabled="True" Value="1637"/>
+            <STATE ID="7" Enabled="True" Value="1647"/>
         </STATES>
     </FEATURE>
     <FEATURE ID="12" Enabled="True">
