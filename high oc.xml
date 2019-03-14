@@ -22,7 +22,7 @@
             <STATE ID="4" Enabled="True" Value="1050"/>
             <STATE ID="5" Enabled="True" Value="1100"/>
             <STATE ID="6" Enabled="True" Value="1000"/>
-            <STATE ID="7" Enabled="True" Value="1100"/>
+            <STATE ID="7" Enabled="True" Value="1125"/>
         </STATES>
     </FEATURE>
     <FEATURE ID="5" Enabled="False">
