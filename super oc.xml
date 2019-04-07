@@ -10,7 +10,7 @@
             <STATE ID="4" Enabled="True" Value="1200"/>
             <STATE ID="5" Enabled="True" Value="1401"/>
             <STATE ID="6" Enabled="True" Value="1557"/>
-            <STATE ID="7" Enabled="True" Value="1687"/>
+            <STATE ID="7" Enabled="True" Value="1752"/>
         </STATES>
     </FEATURE>
     <FEATURE ID="12" Enabled="True">
@@ -22,7 +22,7 @@
             <STATE ID="4" Enabled="True" Value="1050"/>
             <STATE ID="5" Enabled="True" Value="1100"/>
             <STATE ID="6" Enabled="True" Value="1000"/>
-            <STATE ID="7" Enabled="True" Value="1125"/>
+            <STATE ID="7" Enabled="True" Value="1190"/>
         </STATES>
     </FEATURE>
     <FEATURE ID="5" Enabled="False">
@@ -93,9 +93,9 @@
             <STATE ID="2" Enabled="True" Value="50"/>
             <STATE ID="3" Enabled="True" Value="33"/>
             <STATE ID="4" Enabled="True" Value="56"/>
-            <STATE ID="5" Enabled="True" Value="45"/>
-            <STATE ID="6" Enabled="True" Value="63"/>
-            <STATE ID="7" Enabled="True" Value="63"/>
+            <STATE ID="5" Enabled="True" Value="41"/>
+            <STATE ID="6" Enabled="True" Value="64"/>
+            <STATE ID="7" Enabled="True" Value="52"/>
             <STATE ID="8" Enabled="True" Value="70"/>
             <STATE ID="9" Enabled="True" Value="76"/>
         </STATES>
