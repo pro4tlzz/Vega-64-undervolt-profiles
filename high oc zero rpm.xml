@@ -16,13 +16,13 @@
     <FEATURE ID="12" Enabled="True">
         <STATES>
             <STATE ID="0" Enabled="True" Value="800"/>
-            <STATE ID="1" Enabled="True" Value="900"/>
-            <STATE ID="2" Enabled="True" Value="950"/>
-            <STATE ID="3" Enabled="True" Value="1000"/>
-            <STATE ID="4" Enabled="True" Value="1050"/>
-            <STATE ID="5" Enabled="True" Value="1100"/>
+            <STATE ID="1" Enabled="True" Value="850"/>
+            <STATE ID="2" Enabled="True" Value="900"/>
+            <STATE ID="3" Enabled="True" Value="950"/>
+            <STATE ID="4" Enabled="True" Value="1000"/>
+            <STATE ID="5" Enabled="True" Value="1000"/>
             <STATE ID="6" Enabled="True" Value="1000"/>
-            <STATE ID="7" Enabled="True" Value="1125"/>
+            <STATE ID="7" Enabled="True" Value="1100"/>
         </STATES>
     </FEATURE>
     <FEATURE ID="5" Enabled="False">
