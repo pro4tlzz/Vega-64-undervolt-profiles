@@ -10,19 +10,19 @@
             <STATE ID="4" Enabled="True" Value="1200"/>
             <STATE ID="5" Enabled="True" Value="1401"/>
             <STATE ID="6" Enabled="True" Value="1557"/>
-            <STATE ID="7" Enabled="True" Value="1637"/>
+            <STATE ID="7" Enabled="True" Value="1652"/>
         </STATES>
     </FEATURE>
     <FEATURE ID="12" Enabled="True">
         <STATES>
             <STATE ID="0" Enabled="True" Value="800"/>
-            <STATE ID="1" Enabled="True" Value="900"/>
-            <STATE ID="2" Enabled="True" Value="950"/>
-            <STATE ID="3" Enabled="True" Value="1000"/>
-            <STATE ID="4" Enabled="True" Value="1050"/>
-            <STATE ID="5" Enabled="True" Value="1100"/>
+            <STATE ID="1" Enabled="True" Value="850"/>
+            <STATE ID="2" Enabled="True" Value="875"/>
+            <STATE ID="3" Enabled="True" Value="900"/>
+            <STATE ID="4" Enabled="True" Value="925"/>
+            <STATE ID="5" Enabled="True" Value="950"/>
             <STATE ID="6" Enabled="True" Value="1000"/>
-            <STATE ID="7" Enabled="True" Value="1100"/>
+            <STATE ID="7" Enabled="True" Value="1050"/>
         </STATES>
     </FEATURE>
     <FEATURE ID="5" Enabled="False">
@@ -30,7 +30,7 @@
             <STATE ID="0" Enabled="True" Value="167"/>
             <STATE ID="1" Enabled="True" Value="500"/>
             <STATE ID="2" Enabled="True" Value="800"/>
-            <STATE ID="3" Enabled="True" Value="1010"/>
+            <STATE ID="3" Enabled="True" Value="1020"/>
             <STATE ID="4" Enabled="False" Value="0"/>
             <STATE ID="5" Enabled="False" Value="0"/>
             <STATE ID="6" Enabled="False" Value="0"/>
@@ -42,7 +42,7 @@
             <STATE ID="0" Enabled="True" Value="800"/>
             <STATE ID="1" Enabled="True" Value="800"/>
             <STATE ID="2" Enabled="True" Value="950"/>
-            <STATE ID="3" Enabled="True" Value="1015"/>
+            <STATE ID="3" Enabled="True" Value="1000"/>
             <STATE ID="4" Enabled="False" Value="0"/>
             <STATE ID="5" Enabled="False" Value="0"/>
             <STATE ID="6" Enabled="False" Value="0"/>
